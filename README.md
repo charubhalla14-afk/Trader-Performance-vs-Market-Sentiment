@@ -92,3 +92,9 @@ Use **Kernel → Restart & Run All** to execute the full analysis.
 | `charts/03_trader_segments.png` | PnL by leverage / frequency / consistency segments |
 | `charts/04_sentiment_x_leverage.png` | Interaction: sentiment × leverage on PnL |
 | `charts/05_model_results.png` | Feature importance + confusion matrix |
+
+Submitted by:
+
+Charu
+
+charubhalla14@gmail.com, www.linkedin.com/in/charu-bhalla-720814312
